@@ -6,7 +6,7 @@
 |2| [Compare Two directories contents](./compare-two-dir-contents.sh)| compare two dir's files name | |
 |3| [Check directory is empty](./check_dir_empty.sh) | |
 |4| [for loop](./for-loop.sh) | |[reference](https://jhnyang.tistory.com/191)|
-|4| [color printf](./color-printf.sh) | |[reference](https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux?page=1&tab=votes#tab-top)|
-
+|5| [color printf](./color-printf.sh) | |[reference](https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux?page=1&tab=votes#tab-top)|
+|6| [arithmetic](./arithmetic.sh) | ||
 
 
