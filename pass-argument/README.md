@@ -4,9 +4,9 @@
 
 Sample Command:
 ```console
-$ ./by-space-key.sh -e conf -s /etc -l /usr/lib /etc/hosts
+$ ./by-space-sign.sh -e conf -s /etc -l /usr/lib /etc/hosts
 ```
-[code](./by-space-key.sh)
+[code](./by-space-sign.sh)
 
 ## Using Equal Sign
 
