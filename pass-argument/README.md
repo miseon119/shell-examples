@@ -15,3 +15,14 @@ Sample Command:
 $ ./by-equal-sign.sh -e=conf -s=/etc -l=/usr/lib /etc/hosts
 ```
 [code](./by-equal-sign.sh)
+
+## Using getopts
+
+Sample Command:
+```console
+$ ./use-getopts.sh -h
+$ ./use-getopts.sh -v -f
+```
+[code](./use-getopts.sh)
+
+
