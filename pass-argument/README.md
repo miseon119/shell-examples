@@ -8,10 +8,10 @@ $ ./by-space-key.sh -e conf -s /etc -l /usr/lib /etc/hosts
 ```
 [code](./by-space-key.sh)
 
-## Using Semicolon
+## Using Equal Sign
 
 Sample Command:
 ```console
-$ ./by-semicolon-key.sh -e=conf -s=/etc -l=/usr/lib /etc/hosts
+$ ./by-equal-sign.sh -e=conf -s=/etc -l=/usr/lib /etc/hosts
 ```
-[code](./by-semicolon-key.sh)
+[code](./by-equal-sign.sh)
