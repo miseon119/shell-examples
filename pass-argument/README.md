@@ -6,5 +6,5 @@ Sample Command:
 ```console
 $ ./myscript.sh -e conf -s /etc -l /usr/lib /etc/hosts
 ```
-<!-- [code]() -->
+[code](./by-space-key.sh)
 
