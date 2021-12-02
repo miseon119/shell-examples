@@ -44,11 +44,17 @@ for var in "${arr[@]}"
 do
 	echo $var
 done
+#-----------------------------------------
+PLANETS=( "EARTH" "MARS" "VINUS" )
+for PLANET in ${PLANETS[@]}; do
+    echo "This is ${PLANET}"
+done
 
 # -------------------example 7: c-style for-loop
 for ((i=0; i<5; i++)); 
 do
 	echo $i
 done
+
 
 
