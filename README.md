@@ -11,3 +11,5 @@
 |7| [pass argument](./pass-argument/README.md) | pass argument by space, equal sign | [reference](https://mp.weixin.qq.com/s/ih4HqvcaXshPvEAKTAPdtA)|
 |8| [pwd](https://github.com/miseon119/shellscript-examples/blob/6adb31a00cff07068d653d3a10ba3ada4047cedc/check_dir_empty.sh#L14) | current directory | |
 |9| [if-else](https://github.com/miseon119/shellscript-examples/blob/4400d77e72cf32d24b48e9bae18b9166105279d7/basic/basic.sh#L4) | if-else statement | |
+|10| [user input](./basic/user-input.sh) |  | |
+|11| [color print](./basic/user-input.sh) |  | |
