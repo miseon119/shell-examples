@@ -10,4 +10,10 @@
 
 RED='\033[0;31m'
 NC='\033[0m' # No Color
+YELLOW='\033[0;33m'
+GREEN='\033[0;32m'
+
+
 printf "I ${RED}love${NC} github\n"
+printf "${GREEN}%s${NC}\n" "Run App"
+
