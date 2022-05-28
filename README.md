@@ -13,3 +13,4 @@
 |9| [if-else](https://github.com/miseon119/shellscript-examples/blob/4400d77e72cf32d24b48e9bae18b9166105279d7/basic/basic.sh#L4) | if-else statement | |
 |10| [user input](./basic/user-input.sh) |  | |
 |11| [color print](./basic/user-input.sh) |  | |
+|12| [define a funtion](.function/function-note.sh)| Define a function in a shellscript||
