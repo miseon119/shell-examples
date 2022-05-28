@@ -17,3 +17,9 @@ echo "Script executed from: ${PWD}"
 
 BASEDIR=$(dirname $0)
 echo "Script location: ${BASEDIR}"
+
+
+#-----------------------------------------------------------------
+# check files number but not include hidden files or directories
+#-----------------------------------------------------------------
+$(ls | wc -l)
