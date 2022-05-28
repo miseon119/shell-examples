@@ -14,3 +14,4 @@
 |10| [user input](./basic/user-input.sh) |  | |
 |11| [color print](./basic/user-input.sh) |  | |
 |12| [define a funtion](./function/function-note.sh)| Define a function in a shellscript||
+|13| [count files number](https://github.com/miseon119/shellscript-examples/blob/6dd10aba43b223d27b35c7f0132e29ace686843d/check_dir_empty.sh#L25) | count dir/files number in a directory||
